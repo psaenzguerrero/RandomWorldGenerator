@@ -16,7 +16,8 @@ public class Hola {
      */
     public static void main(String[] args) {
         System.out.println("HOLA MUNDO");
-        System.out.println("PRUEBA")
+        System.out.println("PRUEBA");
+        System.out.println("PRUEBA2");
     }
     
 }
